@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>WPM Typing Test</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Typing Speed Test</h1>
+
+    <div id="quote">Loading...</div>
+
+    <textarea id="inputBox" spellcheck="false" autocomplete="off"
+    autocorrect="off"  placeholder="Start typing here...">
+    </textarea>
+    <div id="exceedMsg" style="display: none;">Keep words within limit of reference message</div>
+    <p id="timer-line">Time in seconds: <strong id="timer">60</strong></p>
+
+    <div id="wpm">WPM: Will be displayed here</div>
+    <div id="accuracy">Accuracy: Will be displayed here</div>
+
+    <button id="retryBtn">Retry</button>
+    <button id="newQuote">New Quote</button>
+    <div id="bestScore">Best Score</div>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html>
