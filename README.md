@@ -13,9 +13,13 @@ A simple typing speed tester built using HTML, CSS, and JavaScript.
 - Difficulty levels
 - Typing history
 
-<img width="1758" height="848" alt="image" src="https://github.com/user-attachments/assets/cccf59d1-53c3-418c-8b74-0b05fdd4d565" />
+<img width="1410" height="851" alt="image" src="https://github.com/user-attachments/assets/3d1c3a7e-1bab-47b6-8d2b-d72eebdfe3ff" />
 
-<img width="1476" height="788" alt="image" src="https://github.com/user-attachments/assets/ff4103b6-8945-406d-9d21-41d1bd78e40a" />
+<img width="1312" height="865" alt="image" src="https://github.com/user-attachments/assets/c8d7583e-f55f-404e-9669-d0d3c487046f" />
+
+<img width="1289" height="831" alt="image" src="https://github.com/user-attachments/assets/ae473771-ade4-4e7e-99e9-181d5dd5233d" />
+
+
 
 
 ---
